@@ -1,0 +1,206 @@
+topic,doc_id,label,doc_pred,-,bert_sentiment,lexicon_sentiment,topical,topic_similarity,tokens,entities,Column1,text,sent_id
+Donald Trump,24,0,0.660881519,,0.237889737,1.023379698,0,0,11,1,57,Vinder Real Madrid Champions League for fjerde år i træk?,72
+Donald Trump,24,0,0.660881519,,-0.193493515,0.977106673,0,0,7,1,50,Vinder Caroline Wozniacki en Grand Slam-turnering?,16
+Donald Trump,24,0,0.660881519,,-1.182155967,-0.061737258,1,0,12,2,81,Vil Demokraterne i Repræsentanternes Hus indlede en rigsretssag mod Donald Trump?,48
+Joe Biden,1,0,-1.149904132,,0.8257218,0.44,0,0,13,2,62,"Vi vil vinde,"" skriver han på Twitter efter Pelosis udmelding.",13
+Donald Trump,26,-1,-1.426555753,,0.193576559,-0.111888112,1,0,15,1,67,"Vi er nødt til rent faktisk at gøre en forskel, sagde Donald Trump.",10
+Joe Biden,1,0,-1.149904132,,-1.3603369,0.349514563,0,0,17,2,90,"USA's præsident, Donald Trump, har klokkeklart brudt loven og skal stilles for en rigsret.",1
+Donald Trump,36,-1,-1.249259949,,-1.549555659,-0.77486911,0,0,13,3,72,"USA frygter, at Huawei er nært forbundet med Kinas kommunistiske regime.",9
+Donald Trump,21,2,0.03423284,,-1.064540148,0.336633663,0,0,14,1,79,"Umådelig meget var på spil, da præsidenterne fra Nordog Sydkorea mødtes fredag.",2
+Boris Johnson,3,0,-1.747118831,,-0.648269773,-0.240601504,0,0,13,2,97,Ukraine inviterede tidligere torsdag Storbritannien til at deltage i efterforskningen af styrtet.,5
+Donald Trump,24,0,0.660881519,,0.719921172,0.640226629,0,0,8,2,53,Uddeler Det Svenske Akademi Nobelprisen i litteratur?,50
+Boris Johnson,4,-1,-1.055706978,,-0.639799654,-0.025806452,0,0,17,3,92,Ud af EU den 31. oktober Efter planen skal Storbritannien forlade EU senest den 31. oktober.,17
+Donald Trump,25,-2,-1.336158037,,0.055732038,0,0,0,8,1,76,"TWITTERKONTOENharværet Trumps kommunikationscentral, aktionsrum og taktstok.",7
+Donald Trump,16,0,-0.38944298,,-0.502115905,-0.122699387,1,0,17,1,98,"Tværtimod var det netop den magelige middelklasse, som valgte Donald Trump i primærvalgene i 2016.",21
+Donald Trump,34,0,-0.485920012,,-1.373696089,-0.826086956,0,0,12,1,60,Trumps krav vil koste mere end et års udgifter til politiet.,0
+Donald Trump,32,-2,-1.21890831,,-0.661597073,0,0,0,13,3,69,"Trump fortalte ikke Comey, hvornår han havde denne samtale med Putin.",12
+Donald Trump,28,2,-0.873057306,,0.211922914,1.114754098,0,0,9,1,62,Trump er den mest populære republikanske præsident nogensinde.,16
+Joe Biden,1,0,-1.149904132,,-1.450004339,-0.868571429,0,0,11,1,57,"Trump afviser anklagerne, som han har kaldt en heksejagt.",10
+Donald Trump,36,-1,-1.249259949,,-0.5182634,-0.173913044,1,0,14,3,84,Tirsdag i sidste uge tog Donald Trumptelefonenog ringede til Boris Johnson i London.,1
+Donald Trump,32,-2,-1.21890831,,-1.512916565,-0.8,0,0,12,3,70,Tidl. FBI-chef: Putin praler af russiske prostituerede over for Trump.,0
+Donald Trump,16,0,-0.38944298,,0.410632104,-0.12987013,0,0,16,2,92,"The Complacent Class"" Tyler Cowen St. Martin's Press 256 sider 15,65 dollars på Amazon.com 5",1
+Donald Trump,20,0,0.057245091,,0.636762321,0,0,0,10,3,52,Sverige kan blive mødested for Trump og Kim Jong-un.,0
+Donald Trump,20,0,0.057245091,,-0.014782097,0.5,0,0,13,3,72,"Sverige eller Schweiz er mulige alterna tiver,"" skriver Washington Post.",4
+Donald Trump,20,0,0.057245091,,0.89681977,0.75,0,0,10,2,56,Sverige bliver nævnt som en mulighed sammen med Schweiz.,2
+Donald Trump,35,-2,-1.869619012,,-0.847458839,-0.034778466,0,0,11,0,80,"Svaret er klart: Alle andre psykologer, ville stillediagnosenparanoidskizofreni!",7
+Boris Johnson,0,1,0.379614532,,0.19454506,0.88372093,0,0,8,1,50,Storbritannien fik i denne uge ny premierminister.,1
+Donald Trump,16,0,-0.38944298,,-1.221379519,0.266666667,0,0,13,0,71,Sproget er nogle steder passivt og akademisk og svært at komme igennem.,10
+Donald Trump,26,-1,-1.426555753,,-0.844786525,-0.015748032,0,0,14,0,82,Skytten på blot 19 år havde sneget sig ind blandt sine tidligere klassekammerater.,14
+Joe Biden,0,1,-0.827449977,,-0.030264135,0.615384615,0,0,9,1,52,Sjældent har et præsidentvalg i USA været vigtigere.,23
+Donald Trump,10,-1,-1.76871264,,-0.585501313,-0.285714286,0,0,14,1,74,Sidste mandag kunne være blevet en dag som mange andre i Sudans hovedstad.,1
+Donald Trump,30,1,-0.114008173,,-0.153929546,0.171875,0,0,13,1,67,Sådan lød det blandt andet i en fortrolig FN-rapport i august 2018.,12
+Donald Trump,22,-1,-0.716448009,,-0.012729619,0,1,0,22,2,87,"Så meget har jeg da lært af The Art of the Deal (delvis skrevet af Donald Trump, red.).",10
+Donald Trump,3,0,-1.768768549,,-1.977498531,-0.11627907,0,0,9,1,60,Rystende billeder viser formodet nyt giftgasangreb i Syrien.,0
+Donald Trump,31,-2,-1.83865118,,-1.824959397,-0.279411765,0,0,13,1,83,Rokoko Posten: Fiktive nyheder: Amerikanske medier anklager Trump for støjbergisme.,0
+Donald Trump,8,-2,-1.72256887,,-0.001642887,-0.092715232,0,0,16,1,89,"Repræsentanternes Hus ventes i dag, onsdag, at skulle stemme om at indlede rigsretssagen.",13
+Boris Johnson,2,-2,-1.698865175,,-0.740140975,-0.043478261,1,0,15,2,95,Premierminister Boris Johnson og Brexit-partiets Nigel Farage havde dog valgt ikke at dukke op.,2
+Joe Biden,1,0,-1.149904132,,-1.650262356,-0.56,0,0,12,1,73,"Præsidentens handlinger er alvorlige brud på forfatningen,"" siger Pelosi.",5
+Joe Biden,1,0,-1.149904132,,-1.472465158,-0.783783784,0,0,15,0,81,"Præsidenten misbrugte sin magt for sin egen politiske vindings skyld,"" siger hun.",8
+Donald Trump,39,-1,-0.995173573,,-1.081867814,-0.036363636,1,0,12,1,55,"præsident, har Donald Trump ikke tænkt sig at være der.",2
+Donald Trump,31,-2,-1.83865118,,-0.428705484,-0.235294118,0,0,10,1,54,På den måde ligner han Inger Støjberg til forveksling.,14
+Donald Trump,16,0,-0.38944298,,0.082523197,0.021978022,0,0,18,0,96,"Ovenstående pointer er kun et lille udpluk af den viden, læseren samlet præsenteres for i bogen.",27
+Donald Trump,24,0,0.660881519,,1.248497486,0.373248983,0,0,12,2,69,Opnår Danmark en placering som nummer ti eller højere ved Eurovision?,21
+Donald Trump,6,2,-0.724117875,,0.495931417,0.64,0,0,17,0,93,"Opløftende Siden har den amerikanske præsident sagt, at han har fundet aftalen ' opløftende'.",14
+Boris Johnson,6,2,0.529619336,,1.057250738,0.394904459,1,0,14,1,86,Også i første afstemningsrunde i forrige uge modtog Boris Johnson klart flest stemmer.,3
+Donald Trump,0,1,-0.912902772,,-0.774017394,0.330757341,0,0,12,0,73,Og staten er ved lov forbudt at handle direkte med medicinal-selskaberne.,15
+Boris Johnson,2,-2,-1.698865175,,-1.101011038,-0.145454546,0,0,17,3,98,Og så tog Channel 4 en kontroversiel beslutning: Johnson og Farage blev erstattet af isskulpturer.,3
+Donald Trump,42,-2,-1.457036138,,-0.526978791,-0.007380074,0,0,18,0,86,"Og muligvis er de nuværende regler om, hvad man lovligt kan sige og skrive for slappe.",8
+Donald Trump,12,-2,-1.408003211,,-1.404803395,-0.434782609,0,0,12,0,68,Og enhver handling - og dens mulige dobbeltmoral - bliver endevendt.,8
+Donald Trump,41,-1,-1.200204968,,-1.447648048,-0.45398773,1,0,14,1,87,"Nu harRigspolitietsat tal på, hvad Donald Trumps aflysning har kostet det danskepoliti.",4
+Boris Johnson,5,1,-0.02347222,,-0.946509361,0.8,0,0,12,0,56,Nu har han så også det fulde ansvar for landets fremtid.,14
+Donald Trump,32,-2,-1.21890831,,-1.266418934,-0.298507463,0,0,19,2,99,"Notatet kommer fra den tidligere FBI-direktør James Comey, der blev fyret af Trump i maj sidste år.",3
+Donald Trump,13,-2,-1.55837214,,-1.608650923,-1.109947644,0,0,17,0,99,"Noget, der helt oplagt risikerer at sprede sygdommen meget og hurtigt og dermed forværre epidemien.",16
+Donald Trump,24,0,0.660881519,,-0.353368819,-0.770281811,0,0,8,1,62,NEJ 1. Bliver Annegret Kramp-Karrenbauer tysk forbundskansler?,40
+Donald Trump,38,-2,-1.374836683,,-1.115713596,-0.472727273,0,0,14,0,61,"Men, som han siger, ""der er meget ulighed iRigsfællesskabet"".",19
+Donald Trump,30,1,-0.114008173,,-0.566501617,0.101098901,0,0,12,0,89,"Men samtidig har flere analyser vist, atNordkoreasatomvåbenprogramikke har ligget stille.",11
+Donald Trump,15,-2,-1.027063251,,-1.53111124,-0.8046875,0,0,17,0,75,Men så kom en anklage om et seksuelt overgreb for over 30 år siden i vejen.,2
+Donald Trump,21,2,0.03423284,,0.323834121,0.909090909,0,0,12,0,50,Men nu er håbet om en løsning i det mindste tændt.,18
+Donald Trump,9,-1,-1.201937079,,-0.438693196,0,0,0,13,1,89,"Men jeg overlader den fortolkning til offentligheden"", sigerarkitektenifølge artnet News.",14
+Donald Trump,42,-2,-1.457036138,,-0.949652433,-0.156334232,0,0,19,0,90,"Men hvis tweetene ikke har en karakter, der kan medføre straf, burde de ikke være fjernet.",4
+Donald Trump,12,-2,-1.408003211,,-1.082516909,-0.353658537,0,0,15,0,75,"Men hvad hun gør, fortoner sig formentlig i mørket fra hendes mands skygge.",18
+Joe Biden,0,1,-0.827449977,,-0.440580845,0.661157025,0,0,9,1,57,Men generelt fremstod Biden ellers som fornuftens stemme.,17
+Donald Trump,31,-2,-1.83865118,,-1.102139473,0,1,0,13,1,50,"Men Donald Trump holder på sit: ""Det er fake news.",10
+Donald Trump,38,-2,-1.374836683,,-1.112021804,-0.085106383,0,0,15,0,76,"Men det er svært, ikke mindst med den politiske situation iGrønlandlige nu.""",7
+Donald Trump,17,0,-1.368114591,,-1.002398968,0.421052632,0,0,15,1,81,"Men Clinton mener ikke, at det er vejen frem at åbne for flereindvandrereiEuropa.",8
+Donald Trump,31,-2,-1.83865118,,-0.447882295,-0.235294117,0,0,10,0,64,"Lighederne er dog slående, mener flere amerikanske journalister.",5
+Donald Trump,26,-1,-1.426555753,,-1.628941178,-0.535331906,0,0,19,0,90,"Lige nu ligger 14 personer på hospitalet og undrer sig over, hvordan det kunne gå så galt.",6
+Donald Trump,16,0,-0.38944298,,0.185495153,0.239130435,0,0,9,0,53,Landets sundhedssystem er blandt de dyreste i verden.,24
+Donald Trump,3,0,-1.768768549,,-1.535758615,-0.732394366,0,0,15,0,70,"Kvinder, der er faldet omkuld over hinanden, inden de er blevet kvalt.",2
+Donald Trump,30,1,-0.114008173,,0.288055867,0.936627283,0,0,11,1,65,Kim Jong-un ønsker en fredsaftale og en lettelse af sanktionerne.,17
+Boris Johnson,1,-1,-0.607252061,,-0.103364021,0,0,0,19,2,78,"Johnson svarede igen med at sige, at det er Tusk, der vil blive husket som mr.",11
+Joe Biden,2,1,-0.32035616,,0.866912067,0.279569892,1,0,16,1,68,"Joe Biden er sikker på, at det vil blive en meget mere værdig debat.",4
+Donald Trump,31,-2,-1.83865118,,-1.463504791,-0.763358779,0,0,18,0,79,"Jeg vil have drænet sumpen af falske anklager, og det kan ikke gå hurtigt nok.""",11
+Donald Trump,24,0,0.660881519,,-0.240150958,0.902560692,0,0,11,2,62,JA 8. Er Johannes Riis stadig litterær direktør for Gyldendal?,14
+Donald Trump,24,0,0.660881519,,-0.453904122,0.409893993,0,0,15,0,77,"JA 5. Bliver der indgået en politisk aftale om, at regionerne skal nedlægges?",8
+Donald Trump,18,0,-1.564805269,,-0.115426853,0.470588235,0,0,13,1,68,Iølge The Daily Beast sværger Raven at ville gå helt til Højesteret.,13
+Donald Trump,31,-2,-1.83865118,,-1.575987101,-0.595744681,0,0,11,1,76,"Inger Støjberg er en kynisk, selviscenesættende og antidemokratisk populist.",1
+Donald Trump,0,1,-0.912902772,,-0.054413673,0.927933294,0,0,12,0,55,"Indkøberne er ifølge talen blevet ' meget, meget rige"".",9
+Donald Trump,32,-2,-1.21890831,,-0.514901757,-0.111888112,1,0,15,2,96,Inden fyringen dokumenterede Comey møder og telefonopkald med Donald Trump ved hjælp af notater.,4
+Donald Trump,13,-2,-1.55837214,,-1.195102453,-0.470588235,0,0,13,0,72,Imens bliver passagererne mere og mere urolige og forsøger at komme væk.,3
+Donald Trump,38,-2,-1.374836683,,-1.266250491,-0.210526316,1,0,17,3,91,"Ifølge Else Mathiesen fra Sorø er Donald Trumps planer udtryk for ""en ældgammel tankegang"".",9
+Donald Trump,20,0,0.057245091,,0.579639137,0.372881356,0,0,16,0,84,Ifølge den amerikanske avis har de to lande begge tilbudt at være vært for topmødet.,5
+Donald Trump,26,-1,-1.426555753,,-0.908935368,-0.663755458,0,0,17,0,97,"I takt med at skrigene forstummede og eleverne forsvandt ud af skolen, stoppede skyderierne også.",13
+Donald Trump,8,-2,-1.72256887,,-0.835811138,-0.460526316,0,0,13,0,74,I ingen af tilfældene er der fundet bevis for nogen kriminelle handlinger.,10
+Donald Trump,19,-2,-1.709897995,,-0.481897086,-0.105263158,1,0,12,1,50,I et årti fulgte han Donald Trump i tykt og tyndt.,6
+Donald Trump,5,-1,-1.37995553,,-0.858699441,-0.325581395,0,0,16,0,93,I disse dage cirkulerer et arbejdspapir - et memo - som angiveligt underbygger denne anklage.,2
+Donald Trump,42,-2,-1.457036138,,-1.103117228,-0.452722063,0,0,18,0,100,"Hvis præsidentens tweets var ulovlige, fordi de f. eks. opfordrede til vold, er beslutningen rigtig.",2
+Donald Trump,8,-2,-1.72256887,,-0.700014472,-0.142857143,0,0,13,1,62,"Hvis der kommer en rigsretssag mod Trump, ventes den i januar.",14
+Donald Trump,16,0,-0.38944298,,1.258052588,0.896226415,0,0,13,0,69,"Hver side byder på overraskelser, og bogen emmer af fagligt overskud.",28
+Joe Biden,0,1,-0.827449977,,0.330009252,0.408163265,0,0,13,0,53,"Hvem vinderen bør være, blev også klart i nat: Biden.",26
+Donald Trump,8,-2,-1.72256887,,-1.280293465,-0.470588235,0,0,13,2,81,"Hun ville gøre undersøgelserne vanskelige for alle Rudy Giuliani, Trumps advokat.",18
+Donald Trump,36,-1,-1.249259949,,-0.528841496,-0.589341693,0,0,15,1,80,Huawei vil eksempelvis ikke få lov til at nærme sig atomanlæg og militære baser.,17
+Donald Trump,6,2,-0.724117875,,-0.060757089,0.235294117,0,0,10,3,50,HISTORISK: Trump og Kim Jong-un mødes i Singapore.,0
+Donald Trump,31,-2,-1.83865118,,-1.179452896,-0.602739726,0,0,17,2,100,Herhjemme har Inger Støjberg ikke ønsket at udtale sig om de amerikanske mediers anklager mod Trump.,16
+Donald Trump,32,-2,-1.21890831,,-1.504466295,-0.254545455,0,0,16,1,95,"Her blev det antydet, at Moskva kunne have belastende oplysninger om den amerikanske præsident.",14
+Donald Trump,27,-2,-1.428882241,,-0.176689744,0,0,0,8,1,60,Hans nærmeste modkandidat var demokraternes Hillary Clinton.,6
+Joe Biden,0,1,-0.827449977,,1.32704246,0.363636364,0,0,13,0,72,"Han var klar, rolig, tydeligvis mentalt frisk og overraskende aggressiv.",15
+Donald Trump,27,-2,-1.428882241,,0.119638205,-0.953488372,0,0,7,0,55,Han er udpeget afjustitsministerietsom særlig anklager.,17
+Donald Trump,24,0,0.660881519,,0.076351881,0.478701825,0,0,12,1,67,Går Danmark videre fra den indledende gruppe ved VM i herrefodbold?,13
+Donald Trump,11,-2,-0.490091443,,-0.361926824,-0.097560976,0,0,13,1,95,Friedman har tidligere talt for en øget militærisraelskkontrol over de palæstinensiske områder.,18
+Boris Johnson,5,1,-0.02347222,,-0.271217078,0.3125,0,0,9,0,54,Første udfordring bliver at få en handelsaftale medEU.,15
+Boris Johnson,4,-1,-1.055706978,,-0.76319766,-0.183486239,0,0,22,2,100,"For jeg vil træde tilbage, inden vi når til det punkt,"" sagde Hammond i talkshowet Andrew Marr Show.",12
+Donald Trump,39,-1,-0.995173573,,-0.528615236,-0.090909091,0,0,14,0,68,For ifølge flere anonyme kilder planlægger han at gå ud med et brag.,4
+Donald Trump,17,0,-1.368114591,,-1.03030479,-0.705882353,0,0,11,1,86,Flygtningestrømmene i 2015 satte for alvor gang iindvandringsdebatternei bådeEUog USA.,16
+Boris Johnson,3,0,-1.747118831,,-1.616835713,-1.114754098,0,0,9,0,50,Et styrt forårsaget af tekniske problemer i flyet.,10
+Boris Johnson,4,-1,-1.055706978,,-0.902776957,-0.388059701,0,0,12,0,65,Et flertal i parlamentet ønsker ikke et såkaldt no deal scenarie.,7
+Boris Johnson,5,1,-0.02347222,,-1.39342463,0.073394496,0,0,14,0,63,Et er sikkert: Briterne har begivet sig ud på en farefuld færd.,22
+Donald Trump,16,0,-0.38944298,,-0.139287174,0.708520179,0,0,16,0,87,erne var fem pct. af de amerikanske job beskyttede for folk med en bestemt godkendelse.,15
+Donald Trump,24,0,0.660881519,,-0.614218593,0.145859085,0,0,10,1,73,Er Viktor Orbán stadig premierminister efter det ungarske parlamentsvalg?,36
+Donald Trump,24,0,0.660881519,,-0.383991838,0.328690808,0,0,8,1,61,Er Maria Rørbye Rønn stadig generaldirektør forDanmarksRadio?,27
+Donald Trump,24,0,0.660881519,,-0.458550483,0.202054794,0,0,7,2,52,Er Dmitrij Medvedev stadig Ruslands premierminister?,18
+Donald Trump,21,2,0.03423284,,0.198754162,0.524590164,1,0,15,2,80,En ting er sikker: Donald Trump får rig brug for Donald Trump forhandlingsevner.,17
+Boris Johnson,3,0,-1.747118831,,-1.905262232,-1.024630542,0,0,11,0,56,En eksplosion inde i flyet som følge af et terrorangreb.,12
+Donald Trump,26,-1,-1.426555753,,-1.139150143,-0.090909091,0,0,14,1,61,En af dem var Sarah Chadwick - Bønner vil ikke fikse det her.,19
+Donald Trump,2,-1,-0.900607586,,-1.397129536,-1.023255814,0,0,7,1,53,Embedsmændenes metoder er omvendt dybt udemokratiske.,14
+Donald Trump,17,0,-1.368114591,,-1.337784767,-0.327868852,0,0,17,0,93,"Ellers vil indvandringen fortsætte med at være et problem for mange mennesker,"" tilføjer hun.",11
+Donald Trump,11,-2,-0.490091443,,-1.139601946,-0.520179372,0,0,11,4,59,"Ellemann, Lykketoft og Per Stig advarer mod Trumps farlige.",0
+Donald Trump,1,-1,-1.562532067,,-0.406856209,-0.054054054,1,0,12,1,67,Du har nok set den amerikanske præsident Donald Trump i fjernsynet.,1
+Donald Trump,13,-2,-1.55837214,,-1.443521142,-0.501920615,1,0,13,1,83,Donald Trumps lederskab under krisen har indtil videre været næsten rystende ringe.,4
+Donald Trump,39,-1,-0.995173573,,-0.99798274,-0.223684211,1,0,15,2,99,Donald Trumps kampagnekontor har ikke ønsket at hverken af-eller bekræfte historien over for Axios.,10
+Donald Trump,27,-2,-1.428882241,,0.175973505,-0.085106383,1,0,15,2,95,Donald Trump var ved det amerikanske præsidentvalg i 2016 kandidat for Det Republikanske Parti.,5
+Donald Trump,30,1,-0.114008173,,-1.395753503,0.7,1,0,13,1,99,Donald Trump ønsker en total atomafrustning fraNordkoreasside og kontrol med landets missilprogram.,16
+Donald Trump,20,0,0.057245091,,-0.697930217,-0.589815333,0,0,21,1,93,"Dette har han ikke gjort, siden han overtog magten efter faren, Kim Jong-il, der døde i 2011.",8
+Donald Trump,35,-2,-1.869619012,,-1.528728724,-0.293103448,0,0,11,0,67,"Det viser, hvor forkvaklet denne paranoide mands verdensbillede er.",2
+Boris Johnson,0,1,0.379614532,,-1.577062011,0.137931034,0,0,12,1,60,Det vil nemlig koste både briterne og resten af Europa dyrt.,11
+Joe Biden,1,0,-1.149904132,,0.286944777,0.457142857,0,0,15,1,84,"Det var det demokratiske flertal i Repræsentanternes Hus, der havde indkaldt de tre.",19
+Boris Johnson,0,1,0.379614532,,-1.308508635,0.386554622,1,0,16,2,80,"Det sker, fordi den 55-årige Boris Johnson forgænger Theresa May gik af før tid.",4
+Donald Trump,32,-2,-1.21890831,,-0.761027336,-0.212765958,0,0,14,1,94,"Det sker i kølvandet på, atjustitsministeriethar afleveret kopier af notaterne til Kongressen.",7
+Donald Trump,9,-1,-1.201937079,,-1.470715404,-1.213114754,0,0,8,0,70,Det skal angiveligt symbolisere populistiske politikeres dobbeltmoral.,16
+Donald Trump,5,-1,-1.37995553,,0.31280449,-0.007905138,0,0,14,2,80,"Det republikanske medlem af Repræsentanternes Hus, Devin Nunes, står bag memoet.",11
+Donald Trump,34,0,-0.485920012,,-0.953102231,-0.137931035,0,0,21,0,88,"Det nytter jo ikke noget, at du køber tre fregatter, hvis de ikke har nogen besætning."".",13
+Joe Biden,1,0,-1.149904132,,-0.263950169,0.338461538,0,0,12,2,65,"Det mener Nancy Pelosi, der er formand for Repræsentanternes Hus.",2
+Donald Trump,13,-2,-1.55837214,,-1.834398866,-0.89017341,0,0,16,1,95,"Det massive moralske, politiske og menneskelige svigt risikerer nu at ramme USA ekstremt hårdt.",18
+Donald Trump,25,-2,-1.336158037,,-1.377217531,-1.205298013,0,0,10,0,55,Det lugter fælt af hykleri og desperation før lukketid.,11
+Donald Trump,6,2,-0.724117875,,-0.161167473,0.038461539,0,0,17,0,66,"Det har taget mange årtier at nå hertil, lad os se, hvad der sker.",21
+Donald Trump,1,-1,-1.562532067,,-1.079945207,-0.208955224,0,0,20,0,84,"Det har flere og flere forsøgt det seneste år, og en del af dem er kommet i fængsel.",7
+Donald Trump,20,0,0.057245091,,-0.936583996,-0.666666667,0,0,12,1,53,"Det fremgår ikke, hvad han kræver af USA til gengæld.",16
+Boris Johnson,3,0,-1.747118831,,-0.325960547,0,0,0,8,1,55,Det fremgår af udtalelsen fra Ukraines præsidentkontor.,7
+Donald Trump,41,-1,-1.200204968,,-0.227469087,0,0,0,11,1,63,"Det fremgår af en aktindsigt, som Jyllands-Posten har modtaget.",5
+Donald Trump,23,-1,-1.549052358,,-0.562310934,-0.476190476,0,0,16,1,90,"Det er også hende, der har bedt Nationalgarden om at assistere politiet under protesterne.",17
+Donald Trump,3,0,-1.768768549,,-1.461087227,-0.5,0,0,13,1,59,"Det er ikke første gang, der bliver brugt giftgas i Syrien.",13
+Donald Trump,23,-1,-1.549052358,,-0.041913491,-0.325581395,0,0,12,0,67,"Det er ikke første gang, at aktivister arrangerer en demonstration.",7
+Donald Trump,16,0,-0.38944298,,1.625158429,0.674846626,0,0,12,0,60,Det er forfriskende med et nyt og anderledes syn på tingene.,7
+Boris Johnson,3,0,-1.747118831,,-1.474531651,-0.92,0,0,18,0,76,"Det er en tragisk ting, men nogen på den anden side kan have begået en fejl.",14
+Donald Trump,20,0,0.057245091,,-0.32464543,-0.05,0,0,13,2,70,"Det er dog ikke givet, at Kim Jongun overhovedet vil forladeNordkorea.",7
+Donald Trump,41,-1,-1.200204968,,-0.268266171,-0.057553957,0,0,15,1,62,"Det er der også sket i det her tilfælde,"" siger Claus Oxfeldt.",12
+Donald Trump,0,1,-0.912902772,,0.123691037,0.266666667,0,0,13,1,61,"Det er den branche, der bruger mest på lobbyvirksomhed i USA.",23
+Donald Trump,37,-2,-1.180672407,,-0.623053193,-0.262068966,1,0,14,2,65,Det ene og alene på grund af Longs syn på præsident Donald Trump.,3
+Donald Trump,36,-1,-1.249259949,,-1.280395865,-0.698795181,0,0,12,0,56,"Det bliver i ministeriet omtalt som en ""rygende pistol"".",14
+Donald Trump,13,-2,-1.55837214,,-1.187055826,-0.576271186,0,0,14,1,59,"Det bliver et svækket USA, der kommer ud på den anden side.",21
+Donald Trump,16,0,-0.38944298,,-1.268911242,-0.178571429,0,0,17,1,94,"Det bidrager til en tung, gældsat offentlig sektor, som yderligere sinker det stagnerende USA.",26
+Boris Johnson,3,0,-1.747118831,,-1.732446909,-0.583690987,0,0,22,0,87,"Det (flyet, red) flyver i et temmelig groft kvarter, og nogen kan have begået en fejl"".",15
+Donald Trump,27,-2,-1.428882241,,-0.117462188,0,1,0,9,1,63,Derudover bliver flere af Donald Trumps familiemedlemmer nævnt.,13
+Donald Trump,30,1,-0.114008173,,-0.548533797,0.181818182,0,0,12,0,80,"Derfor ved vi ikke, hvad status i virkeligheden er påNordkoreasatomvåbenprogram.",13
+Joe Biden,1,0,-1.149904132,,-0.554655075,0.5,0,0,12,0,83,Derfor beder hun nuretsudvalgetom at identificere de relevante paragraffer i sagen.,3
+Boris Johnson,6,2,0.529619336,,-0.693346679,0.662162162,0,0,11,0,72,Der dukker næsten altid en overraskelse op i konservative formandskampe.,7
+Boris Johnson,6,2,0.529619336,,0.314489096,0.137931035,0,0,18,1,88,"Denne gang er det 46-årige Rory Stewart, der var relativt ukendt for få uger uger siden.",8
+Donald Trump,19,-2,-1.709897995,,-0.564301133,-0.736842105,0,0,8,1,52,Dengang blev Michael Cohen nægtet tidlig løsladelse.,17
+Boris Johnson,5,1,-0.02347222,,-0.854685068,0.252427184,0,0,10,0,69,Den splittelse vil yderligere styrke kravet om skotsk selvstændighed.,19
+Donald Trump,16,0,-0.38944298,,-0.356317282,0.941176471,0,0,9,1,66,Den legendariske økonom Tyler Cowen blogger på MarginalRevolution.,2
+Joe Biden,1,0,-1.149904132,,0.114246547,0.470588235,0,0,13,1,65,"Den gode ting er, at Republikanerne aldrig har været mere samlet.",12
+Boris Johnson,0,1,0.379614532,,0.893523395,0.80794702,1,0,12,1,64,den 55-årige Boris Johnson er dog kendt for at være optimistisk.,12
+Donald Trump,26,-1,-1.426555753,,-1.795000196,-0.271186441,0,0,17,0,100,"Den 19-årige gerningsmand har haft forbindelser til en gruppe, der går ind for hvidt overherredømme.",22
+Donald Trump,28,2,-0.873057306,,-1.404224277,0.363636364,0,0,17,0,91,"Demokrater gør klar til rigsretssag, men det kan give bagslag: Det vil være skrækscenariet.",0
+Boris Johnson,2,-2,-1.698865175,,-0.187580764,-0.142857143,0,0,13,1,83,"Debatten var udelukkende for partiledere, fastholdt Channel 4-redaktør Ben de Paar.",15
+Donald Trump,42,-2,-1.457036138,,-1.720934391,-1.133333333,0,0,13,0,65,"De sociale medier er desværre fulde af løgn, manipulation og had.",7
+Donald Trump,9,-1,-1.201937079,,-1.430497169,-0.601941748,0,0,16,0,67,"De mener, at den er grim, hvorfor den ikke passer ind i landskabet.",5
+Donald Trump,17,0,-1.368114591,,-1.333270788,0.846153846,0,0,15,0,99,"De er enige om, at den øgedeindvandringskaber store udfordringer for det internationale samarbejde.",6
+Donald Trump,26,-1,-1.426555753,,-1.368009448,-0.344827586,0,0,16,0,90,Dagen efter var flere elever fra skolen ude med kritik af især de republikanske lovgivere.,18
+Boris Johnson,2,-2,-1.698865175,,-0.60467124,0,0,0,15,1,89,"D e smeltede isfigurer skulle repræsentere ""nødsituationen på jorden"", oplyste Channel 4.",17
+Boris Johnson,2,-2,-1.698865175,,-0.751375675,-0.24778761,1,0,11,2,72,Channel 4s isskulpturer gjorde Boris Johnsons afbud tydeligt for enhver.,7
+Boris Johnson,3,0,-1.747118831,,-1.868593335,-0.408163265,0,0,13,2,85,"Canadas premierminister, Justin Trudeau: Iransk missil skød ukrainsk passagerfly ned.",0
+Boris Johnson,5,1,-0.02347222,,-0.201707959,0.40625,1,0,17,2,80,Briterne vil ud af EU - og med Boris Johnsons massive valgsejr kommer de det nu.,2
+Boris Johnson,3,0,-1.747118831,,0.307752848,0.732394366,1,0,15,1,93,"Boris Johnson siger, at de bedste britiske eksperter bør blive involveret i efterforskningen.",6
+Boris Johnson,6,2,0.529619336,,0.407011718,0.314606741,1,0,10,2,61,Boris Johnson cruiser videre mod Downing Street 10. Valgdyst.,0
+Boris Johnson,2,-2,-1.698865175,,-1.297151566,-0.528301887,1,0,13,1,82,Boris Johnson blev erstattet af smeltende isskulptur - nu bliver TV-station truet.,0
+Donald Trump,16,0,-0.38944298,,-1.088906646,-0.565217391,0,0,11,0,50,Bogen er tung at læse og ikke altid super skrevet.,9
+Donald Trump,17,0,-1.368114591,,-0.2569713,-0.325581395,0,0,12,1,54,Blandt andet med krav om en mur på grænsen til Mexico.,18
+Donald Trump,0,1,-0.912902772,,0.014353078,0.217821782,0,0,10,0,61,Blandt andet at priser skal fremgå af reklamer forlægemidler.,19
+Boris Johnson,1,-1,-0.607252061,,-1.179274201,-0.186397985,0,0,20,0,91,Bag de barnlige ord gemmer sig dog en kedelig sandhed: At ingen af dem vil gå på kompromis.,13
+Boris Johnson,5,1,-0.02347222,,-0.076415055,0.870056497,0,0,10,1,52,Både EU og briterne er stærkere sammen end adskilte.,6
+Donald Trump,3,0,-1.768768549,,-1.21365273,-0.833333333,0,0,14,2,88,"Både den syriske regering og Rusland afviser billederne som forfalskninger, skriver AFP.",8
+Joe Biden,0,1,-0.827449977,,1.237265468,0.901408451,0,0,13,0,60,At få et uomtvisteligt resultat vil i sig selv være en sejr.,25
+Donald Trump,24,0,0.660881519,,-0.35791415,0.205741627,0,0,10,2,76,8. Forlader Eske Willerslev og hans forskningscenter Københavns Universitet?,52
+Donald Trump,24,0,0.660881519,,0.828030109,1.170958422,0,0,11,0,75,4. Vinder de danske håndboldherrer guld ved verdensmesterskaberne i januar?,45
+Donald Trump,16,0,-0.38944298,,0.524351418,0.075471698,0,0,17,1,80,4. USA's velfærdsstat er - modsat hvad mange hævder - en af de største i verden.,23
+Donald Trump,4,-2,-1.094392061,,-0.36821726,-0.281938326,0,0,13,1,71,34 er sigtet: Robert Muellers undersøgelse kan være færdig inden længe.,0
+Donald Trump,24,0,0.660881519,,-0.954134881,0.277511962,0,0,12,0,62,3. Falder værdien af 1 bitcoin til 500 dollars eller derunder?,6
+Donald Trump,24,0,0.660881519,,-0.170082197,0.652291105,0,0,10,2,67,2018 1. Overlader dronning Margrethe tronen til kronprins Frederik?,2
+Donald Trump,24,0,0.660881519,,-0.020456281,0.123044838,0,0,12,1,66,20. Vil der blive observeret to eller flere gribbearter i Danmark?,78
+Donald Trump,24,0,0.660881519,,-0.63666153,-0.113207548,0,0,10,2,56,2. Stopper Lars Løkke Rasmussen som formand for Venstre?,42
+Donald Trump,24,0,0.660881519,,-0.085699767,-0.401639344,0,0,13,2,74,"2. Bekendtgør Lisbet Dahl, at hun stopper som instruktør for Cirkusrevyen?",4
+Donald Trump,24,0,0.660881519,,0.036033351,0,0,0,13,1,62,"19. Bliver sommeren den varmeste, der endnu er målt i Danmark?",76
+Donald Trump,26,-1,-1.426555753,,-1.804188848,-0.786516854,0,0,9,0,50,17 DRÆBTE OG 14: Højreekstremist bag skoleskyderi.,0
+Donald Trump,24,0,0.660881519,,1.227406621,1.181073703,0,0,9,0,51,15. Vinder en kvinde Oscaren for bedste instruktør?,29
+Donald Trump,24,0,0.660881519,,-0.391119808,-0.27006247,0,0,12,0,69,12. Vil der komme en politisk aftale om at afskaffe 1000-kronesedlen?,60
+Donald Trump,24,0,0.660881519,,-0.661396265,-0.694275917,0,0,11,1,64,11. Vil planerne om et udrejsecenter på Lindholm blive skrottet?,58
+Donald Trump,41,-1,-1.200204968,,-1.052850842,-0.632911393,0,0,18,0,91,"""Væsentlig usikkerhed"" Det bemærkes også, at tallet er behæftet med ""væsentlig usikkerhed"".",9
+Donald Trump,27,-2,-1.428882241,,-1.745080471,-0.451612903,0,0,16,1,84,"""Under præsidentvalget i 2016 kastede Rusland sig ud i et angreb på vores demokrati.",7
+Donald Trump,28,2,-0.873057306,,0.116420925,1.0625,0,0,10,1,63,"""Trump er den mest populære republikanske præsident nogensinde.",20
+Donald Trump,8,-2,-1.72256887,,-1.353609085,-0.430769231,0,0,17,0,92,"""Hun ville gøre undersøgelserne vanskelige for alle"", siger han til det amerikanske magasin.",3
+Joe Biden,1,0,-1.149904132,,-0.997471273,0.137931034,0,0,18,1,69,"""Det var ikke, hvad grundlæggerne (af USA red.) tænkte,"" skriver han.",15
+Boris Johnson,4,-1,-1.055706978,,-0.919533074,-0.085106383,0,0,15,0,64,"""Det er ikke noget, jeg nogensinde vil kunne forpligte mig til.""",5
+Donald Trump,28,2,-0.873057306,,0.64031738,0.216216216,0,0,11,0,52,""" MADS FUGLEDE, VÆRT FOR PODCASTEN ""KAMPAGNESPORET"".",22
+Donald Trump,38,-2,-1.374836683,,-0.803126931,-0.125,0,0,10,1,58,""" Indalik Høegh har svært ved at seGrønlandsom amerikansk.",17
+Donald Trump,6,2,-0.724117875,,-0.282930702,0.036363636,0,0,18,0,68,"- Det har taget mange årtier at nå hertil, lad os se, hvad der sker.",16
+Donald Trump,6,2,-0.724117875,,0.499768049,0.869565217,0,0,13,2,61,"- De behandler os med stor respekt, sagde Trump om Nordkorea.",19
